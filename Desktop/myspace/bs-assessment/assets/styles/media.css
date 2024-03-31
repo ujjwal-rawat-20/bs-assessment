@@ -1,0 +1,13 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    .mainHeadingOne {
+        font-size: 15px;
+    }
+    
+    .mainHeadingTwo {
+        font-size: 55px;
+    }
+    
+    .mainHeadingThree{
+        font-size: 43px;
+    }
+}
